@@ -1,5 +1,7 @@
 <application>
   <component name="kite">
     <option name="showWelcomeNotification" value="false" />
+    <option name="showPopularPatterns" value="true" />
+    <option name="showKwargs" value="true" />
   </component>
 </application>
